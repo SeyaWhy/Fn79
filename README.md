@@ -33,6 +33,5 @@
 <hr style="width:100%;text-align:left;margin-left:0">
 
 <a href="https://github.com/Fn79">
-    <!--<center><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Fn79&theme=nord_bright" alt="uwu"/></center>-->
-    todo
+    <center><img src="https://github.com/Fn79/Fn79/blob/snake/snake.svg" alt="uwu"/></center>
 </a>
