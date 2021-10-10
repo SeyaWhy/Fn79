@@ -35,3 +35,10 @@
 <a href="https://github.com/Fn79">
     <center><img src="https://github.com/Fn79/Fn79/blob/snake/snake.svg" alt="uwu"/></center>
 </a>
+
+<!--
+just a second!
+
+How to Snake Contribution Graph?
+-> How_To_Snake_Contribution_Graph.md
+-->
