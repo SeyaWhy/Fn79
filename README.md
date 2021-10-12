@@ -27,7 +27,7 @@
 
 <h2><strong>🎮 Game: </strong></h2>
 <a href="https://socialclub.rockstargames.com/"><img src="https://img.shields.io/badge/-Grand Theft Auto V-112244?style=flat"/></a>
-<a href="https://genshin.mihoyo.com/ko/"><img src="https://img.shields.io/badge/-Genshin Impact-FFC9F9?style=flat&logo=debian"/></a>
+<a href="https://genshin.mihoyo.com/ko/"><img src="https://img.shields.io/badge/-Genshin Impact-FFC9F9?style=flat"/></a>
 
 <br><br>
 
