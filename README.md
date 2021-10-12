@@ -29,6 +29,7 @@
 
 <h2><strong>📞 Contact Me: </strong></h2>
 <a href="https://github.com/Fn79"><img src="https://img.shields.io/badge/-rustycode.uwu@gmail.com-000000?style=flat&logo=gmail"/></a>
+<a href="https://discordapp.com/users/760688241447141395"><img src="https://img.shields.io/badge/-Fn79%239915-000000?style=flat&logo=discord"/></a>
 
 <hr style="width:100%;text-align:left;margin-left:0">
 
