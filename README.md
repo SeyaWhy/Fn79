@@ -38,7 +38,7 @@
 <hr style="width:100%;text-align:left;margin-left:0">
 
 <a href="https://github.com/Fn79">
-    <center><img src="https://github.com/Fn79/Fn79/blob/snake/snake.svg" alt="uwu"/></center>
+    <center><img src="https://github.com/Fn79/Fn79/blob/snake/snake.gif" alt="uwu"/></center>
 </a>
 
 <!--
