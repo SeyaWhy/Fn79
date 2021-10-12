@@ -23,7 +23,7 @@ jobs:
         id: snake-gif
         with:
           github_user_name: Fn79
-          svg_out_path: dist/snake.svg
+          svg_out_path: dist/snake.gif
 
       - uses: crazy-max/ghaction-github-pages@v2.1.3
         with:
@@ -43,7 +43,7 @@ and click this.
 
 Get Image:
 
-`https://github.com/[name]/[repo]/blob/snake/snake.svg`
+`https://github.com/[name]/[repo]/blob/snake/snake.gif`
 
 <br>
 
