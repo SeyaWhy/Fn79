@@ -18,6 +18,7 @@
 <a href="https://www.python.org/"><img src="https://img.shields.io/badge/-Python-3429ff?style=flat&logo=python"/></a>
 
 <h2><strong>🛠️ Development Environment: </strong></h2>
+<a href="https://www.apple.com/mac/"><img src="https://img.shields.io/badge/-MacBook Pro-000000?style=flat&logo=apple"/></a>
 <a href="https://www.microsoft.com/ko-kr/software-download/windows10"><img src="https://img.shields.io/badge/-Windows-042571?style=flat&logo=windows"/></a>
 <a href="https://www.debian.org/"><img src="https://img.shields.io/badge/-WSL (debian)-b63159?style=flat&logo=debian"/></a>
 
