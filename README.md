@@ -26,10 +26,6 @@
 <a href="https://nodejs.org/"><img src="https://img.shields.io/badge/-Node-4a7558?style=flat&logo=node.js"/></a>
 <a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/-Visual Studio Code-213c60?style=flat&logo=visualstudiocode"/></a>
 
-<h2><strong>🎮 Game: </strong></h2>
-<a href="https://socialclub.rockstargames.com/"><img src="https://img.shields.io/badge/-Grand Theft Auto V-112244?style=flat"/></a>
-<a href="https://genshin.mihoyo.com/ko/"><img src="https://img.shields.io/badge/-Genshin Impact-FFC9F9?style=flat"/></a>
-
 <br><br>
 
 <h2><strong>📞 Contact Me: </strong></h2>
