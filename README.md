@@ -24,6 +24,7 @@
 
 <a href="https://deno.land/"><img src="https://img.shields.io/badge/-Deno-141414?style=flat&logo=deno"/></a>
 <a href="https://nodejs.org/"><img src="https://img.shields.io/badge/-Node-4a7558?style=flat&logo=node.js"/></a>
+<a href="https://ko.reactjs.org/"><img src="https://img.shields.io/badge/-React-2ACAEA?style=flat&logo=react"/></a>
 <a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/-Visual Studio Code-213c60?style=flat&logo=visualstudiocode"/></a>
 
 <br><br>
